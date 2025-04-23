@@ -1,5 +1,5 @@
 # System-Design-End-Term
-```markdown
+
 # Rate Limiting Microservice with FastAPI 🚦
 
 This microservice implements a basic rate-limiting mechanism using Python and FastAPI to protect APIs from excessive request bursts and ensure stable performance.
